@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "w6IRn6mR6DE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\George\\Source\\Repos\\acitivty-2\\activity-2\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "w6IRn6mR6DE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\George\\Source\\Repos\\acitivty-2\\activity-2\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2dfeceebcd6bba624b9f01cff1196599a51cfba5
+}
