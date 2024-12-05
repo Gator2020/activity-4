@@ -1,0 +1,50 @@
+
+1 year ago
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h3>This is the Home page</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam minus eveniet recusandae dicta similique numquam voluptas quos tempore cupiditate pariatur, laudantium fugit alias quia veritatis nesciunt quaerat molestias adipisci assumenda.</p>
+    </main>
+
+<style>
+
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(0, 0%, 25%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+.navbar li{
+    float: left;
+}
+</style>
