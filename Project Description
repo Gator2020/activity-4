@@ -1,0 +1,16 @@
+Feature List Description
+---------------------------
+*Login Page
+-Using Angular to host Page on Local host port 4020
+-Navigation Menu for uploading data
+-Read and write From File for database Entry.
+
+
+  Project Description
+-------------------------------------
+Database System Used to write user query entries to File.
+Select File Path and view source
+
+Goals
+--------------
+Create User pages from saved Data.
